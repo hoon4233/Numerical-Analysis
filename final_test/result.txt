@@ -1,0 +1,820 @@
+center : 
+[[-0.22893012  0.26759025 -0.8656726 ]
+ [-1.3631531   1.5353655   1.9220301 ]
+ [-1.766513   -1.1290098   1.993582  ]
+ [ 1.185827   -1.3770188  -0.81323206]
+ [ 1.1692326  -0.1399837   1.723129  ]]
+
+Max_dis & Min_dis :
+[4.1716065267529405, 3.587479267342347, 3.522543641195532, 3.375766040679087, 4.182236413600973] 
+[0.3366577542234803, 0.4993188279273909, 0.4373168940320196, 0.212810801692181, 0.26039314227993443]
+
+Select_cluster : 
+[[114, 26, 28, 58, 74], [38, 1, 15, 142, 104], [4, 9, 125, 14, 148], [5, 120, 169, 1, 5], [6, 131, 31, 2, 130]]
+1 distribution == 1 cluster
+2 distribution == 4 cluster
+3 distribution == 5 cluster
+4 distribution == 3 cluster
+5 distribution == 2 cluster
+
+
+First distribution's point (index : 300) is in original cluster
+Second distribution's point (index : 300) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 300) is in original cluster
+Forth distribution's point (index : 300) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 300) is in original cluster
+
+
+First distribution's point (index : 301) is in original cluster
+Second distribution's point (index : 301) is not in original cluster.(Instead in 3 cluster)
+Third distribution's point (index : 301) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 301) is in original cluster
+Fifth distribution's point (index : 301) is in original cluster
+
+
+First distribution's point (index : 302) is in original cluster
+Second distribution's point (index : 302) is in original cluster
+Third distribution's point (index : 302) is in original cluster
+Forth distribution's point (index : 302) is in original cluster
+Fifth distribution's point (index : 302) is in original cluster
+
+
+First distribution's point (index : 303) is in original cluster
+Second distribution's point (index : 303) is in original cluster
+Third distribution's point (index : 303) is in original cluster
+Forth distribution's point (index : 303) is in original cluster
+Fifth distribution's point (index : 303) is in original cluster
+
+
+First distribution's point (index : 304) is in original cluster
+Second distribution's point (index : 304) is in original cluster
+Third distribution's point (index : 304) is in original cluster
+Forth distribution's point (index : 304) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 304) is not in original cluster.(Instead in 5 cluster)
+
+
+First distribution's point (index : 305) is in original cluster
+Second distribution's point (index : 305) is in original cluster
+Third distribution's point (index : 305) is in original cluster
+Forth distribution's point (index : 305) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 305) is in original cluster
+
+
+First distribution's point (index : 306) is in original cluster
+Second distribution's point (index : 306) is in original cluster
+Third distribution's point (index : 306) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 306) is in original cluster
+Fifth distribution's point (index : 306) is in original cluster
+
+
+First distribution's point (index : 307) is in original cluster
+Second distribution's point (index : 307) is in original cluster
+Third distribution's point (index : 307) is in original cluster
+Forth distribution's point (index : 307) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 307) is in original cluster
+
+
+First distribution's point (index : 308) is in original cluster
+Second distribution's point (index : 308) is in original cluster
+Third distribution's point (index : 308) is not in original cluster.(Instead in 5 cluster)
+Forth distribution's point (index : 308) is in original cluster
+Fifth distribution's point (index : 308) is in original cluster
+
+
+First distribution's point (index : 309) is in original cluster
+Second distribution's point (index : 309) is in original cluster
+Third distribution's point (index : 309) is in original cluster
+Forth distribution's point (index : 309) is in original cluster
+Fifth distribution's point (index : 309) is in original cluster
+
+
+First distribution's point (index : 310) is in original cluster
+Second distribution's point (index : 310) is in original cluster
+Third distribution's point (index : 310) is in original cluster
+Forth distribution's point (index : 310) is in original cluster
+Fifth distribution's point (index : 310) is in original cluster
+
+
+First distribution's point (index : 311) is in original cluster
+Second distribution's point (index : 311) is in original cluster
+Third distribution's point (index : 311) is in original cluster
+Forth distribution's point (index : 311) is in original cluster
+Fifth distribution's point (index : 311) is in original cluster
+
+
+First distribution's point (index : 312) is in original cluster
+Second distribution's point (index : 312) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 312) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 312) is in original cluster
+Fifth distribution's point (index : 312) is in original cluster
+
+
+First distribution's point (index : 313) is in original cluster
+Second distribution's point (index : 313) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 313) is in original cluster
+Forth distribution's point (index : 313) is in original cluster
+Fifth distribution's point (index : 313) is in original cluster
+
+
+First distribution's point (index : 314) is in original cluster
+Second distribution's point (index : 314) is in original cluster
+Third distribution's point (index : 314) is in original cluster
+Forth distribution's point (index : 314) is in original cluster
+Fifth distribution's point (index : 314) is in original cluster
+
+
+First distribution's point (index : 315) is in original cluster
+Second distribution's point (index : 315) is in original cluster
+Third distribution's point (index : 315) is in original cluster
+Forth distribution's point (index : 315) is in original cluster
+Fifth distribution's point (index : 315) is in original cluster
+
+
+First distribution's point (index : 316) is in original cluster
+Second distribution's point (index : 316) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 316) is in original cluster
+Forth distribution's point (index : 316) is in original cluster
+Fifth distribution's point (index : 316) is in original cluster
+
+
+First distribution's point (index : 317) is in original cluster
+Second distribution's point (index : 317) is in original cluster
+Third distribution's point (index : 317) is in original cluster
+Forth distribution's point (index : 317) is in original cluster
+Fifth distribution's point (index : 317) is in original cluster
+
+
+First distribution's point (index : 318) is in original cluster
+Second distribution's point (index : 318) is in original cluster
+Third distribution's point (index : 318) is in original cluster
+Forth distribution's point (index : 318) is in original cluster
+Fifth distribution's point (index : 318) is in original cluster
+
+
+First distribution's point (index : 319) is in original cluster
+Second distribution's point (index : 319) is in original cluster
+Third distribution's point (index : 319) is in original cluster
+Forth distribution's point (index : 319) is in original cluster
+Fifth distribution's point (index : 319) is in original cluster
+
+
+First distribution's point (index : 320) is in original cluster
+Second distribution's point (index : 320) is in original cluster
+Third distribution's point (index : 320) is in original cluster
+Forth distribution's point (index : 320) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 320) is in original cluster
+
+
+First distribution's point (index : 321) is in original cluster
+Second distribution's point (index : 321) is in original cluster
+Third distribution's point (index : 321) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 321) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 321) is in original cluster
+
+
+First distribution's point (index : 322) is in original cluster
+Second distribution's point (index : 322) is in original cluster
+Third distribution's point (index : 322) is in original cluster
+Forth distribution's point (index : 322) is in original cluster
+Fifth distribution's point (index : 322) is in original cluster
+
+
+First distribution's point (index : 323) is in original cluster
+Second distribution's point (index : 323) is in original cluster
+Third distribution's point (index : 323) is in original cluster
+Forth distribution's point (index : 323) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 323) is in original cluster
+
+
+First distribution's point (index : 324) is in original cluster
+Second distribution's point (index : 324) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 324) is in original cluster
+Forth distribution's point (index : 324) is in original cluster
+Fifth distribution's point (index : 324) is in original cluster
+
+
+First distribution's point (index : 325) is in original cluster
+Second distribution's point (index : 325) is in original cluster
+Third distribution's point (index : 325) is in original cluster
+Forth distribution's point (index : 325) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 325) is in original cluster
+
+
+First distribution's point (index : 326) is in original cluster
+Second distribution's point (index : 326) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 326) is in original cluster
+Forth distribution's point (index : 326) is in original cluster
+Fifth distribution's point (index : 326) is in original cluster
+
+
+First distribution's point (index : 327) is in original cluster
+Second distribution's point (index : 327) is in original cluster
+Third distribution's point (index : 327) is in original cluster
+Forth distribution's point (index : 327) is in original cluster
+Fifth distribution's point (index : 327) is not in original cluster.(Instead in 5 cluster)
+
+
+First distribution's point (index : 328) is in original cluster
+Second distribution's point (index : 328) is in original cluster
+Third distribution's point (index : 328) is in original cluster
+Forth distribution's point (index : 328) is in original cluster
+Fifth distribution's point (index : 328) is in original cluster
+
+
+First distribution's point (index : 329) is in original cluster
+Second distribution's point (index : 329) is in original cluster
+Third distribution's point (index : 329) is in original cluster
+Forth distribution's point (index : 329) is in original cluster
+Fifth distribution's point (index : 329) is in original cluster
+
+
+First distribution's point (index : 330) is in original cluster
+Second distribution's point (index : 330) is in original cluster
+Third distribution's point (index : 330) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 330) is in original cluster
+Fifth distribution's point (index : 330) is in original cluster
+
+
+First distribution's point (index : 331) is in original cluster
+Second distribution's point (index : 331) is in original cluster
+Third distribution's point (index : 331) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 331) is in original cluster
+Fifth distribution's point (index : 331) is in original cluster
+
+
+First distribution's point (index : 332) is in original cluster
+Second distribution's point (index : 332) is in original cluster
+Third distribution's point (index : 332) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 332) is in original cluster
+Fifth distribution's point (index : 332) is in original cluster
+
+
+First distribution's point (index : 333) is in original cluster
+Second distribution's point (index : 333) is in original cluster
+Third distribution's point (index : 333) is in original cluster
+Forth distribution's point (index : 333) is not in original cluster.(Instead in 3 cluster)
+Fifth distribution's point (index : 333) is in original cluster
+
+
+First distribution's point (index : 334) is in original cluster
+Second distribution's point (index : 334) is in original cluster
+Third distribution's point (index : 334) is in original cluster
+Forth distribution's point (index : 334) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 334) is in original cluster
+
+
+First distribution's point (index : 335) is in original cluster
+Second distribution's point (index : 335) is in original cluster
+Third distribution's point (index : 335) is in original cluster
+Forth distribution's point (index : 335) is in original cluster
+Fifth distribution's point (index : 335) is in original cluster
+
+
+First distribution's point (index : 336) is in original cluster
+Second distribution's point (index : 336) is in original cluster
+Third distribution's point (index : 336) is in original cluster
+Forth distribution's point (index : 336) is in original cluster
+Fifth distribution's point (index : 336) is not in original cluster.(Instead in 5 cluster)
+
+
+First distribution's point (index : 337) is in original cluster
+Second distribution's point (index : 337) is in original cluster
+Third distribution's point (index : 337) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 337) is in original cluster
+Fifth distribution's point (index : 337) is in original cluster
+
+
+First distribution's point (index : 338) is in original cluster
+Second distribution's point (index : 338) is in original cluster
+Third distribution's point (index : 338) is in original cluster
+Forth distribution's point (index : 338) is in original cluster
+Fifth distribution's point (index : 338) is in original cluster
+
+
+First distribution's point (index : 339) is in original cluster
+Second distribution's point (index : 339) is in original cluster
+Third distribution's point (index : 339) is in original cluster
+Forth distribution's point (index : 339) is in original cluster
+Fifth distribution's point (index : 339) is in original cluster
+
+
+First distribution's point (index : 340) is in original cluster
+Second distribution's point (index : 340) is in original cluster
+Third distribution's point (index : 340) is in original cluster
+Forth distribution's point (index : 340) is in original cluster
+Fifth distribution's point (index : 340) is in original cluster
+
+
+First distribution's point (index : 341) is in original cluster
+Second distribution's point (index : 341) is in original cluster
+Third distribution's point (index : 341) is in original cluster
+Forth distribution's point (index : 341) is in original cluster
+Fifth distribution's point (index : 341) is in original cluster
+
+
+First distribution's point (index : 342) is in original cluster
+Second distribution's point (index : 342) is not in original cluster.(Instead in 3 cluster)
+Third distribution's point (index : 342) is in original cluster
+Forth distribution's point (index : 342) is in original cluster
+Fifth distribution's point (index : 342) is in original cluster
+
+
+First distribution's point (index : 343) is in original cluster
+Second distribution's point (index : 343) is in original cluster
+Third distribution's point (index : 343) is in original cluster
+Forth distribution's point (index : 343) is in original cluster
+Fifth distribution's point (index : 343) is in original cluster
+
+
+First distribution's point (index : 344) is in original cluster
+Second distribution's point (index : 344) is in original cluster
+Third distribution's point (index : 344) is in original cluster
+Forth distribution's point (index : 344) is in original cluster
+Fifth distribution's point (index : 344) is in original cluster
+
+
+First distribution's point (index : 345) is in original cluster
+Second distribution's point (index : 345) is in original cluster
+Third distribution's point (index : 345) is in original cluster
+Forth distribution's point (index : 345) is in original cluster
+Fifth distribution's point (index : 345) is in original cluster
+
+
+First distribution's point (index : 346) is in original cluster
+Second distribution's point (index : 346) is in original cluster
+Third distribution's point (index : 346) is not in original cluster.(Instead in 5 cluster)
+Forth distribution's point (index : 346) is in original cluster
+Fifth distribution's point (index : 346) is in original cluster
+
+
+First distribution's point (index : 347) is in original cluster
+Second distribution's point (index : 347) is in original cluster
+Third distribution's point (index : 347) is in original cluster
+Forth distribution's point (index : 347) is in original cluster
+Fifth distribution's point (index : 347) is in original cluster
+
+
+First distribution's point (index : 348) is in original cluster
+Second distribution's point (index : 348) is in original cluster
+Third distribution's point (index : 348) is in original cluster
+Forth distribution's point (index : 348) is in original cluster
+Fifth distribution's point (index : 348) is in original cluster
+
+
+First distribution's point (index : 349) is in original cluster
+Second distribution's point (index : 349) is in original cluster
+Third distribution's point (index : 349) is in original cluster
+Forth distribution's point (index : 349) is in original cluster
+Fifth distribution's point (index : 349) is in original cluster
+
+
+First distribution's point (index : 350) is in original cluster
+Second distribution's point (index : 350) is in original cluster
+Third distribution's point (index : 350) is in original cluster
+Forth distribution's point (index : 350) is in original cluster
+Fifth distribution's point (index : 350) is in original cluster
+
+
+First distribution's point (index : 351) is in original cluster
+Second distribution's point (index : 351) is in original cluster
+Third distribution's point (index : 351) is in original cluster
+Forth distribution's point (index : 351) is in original cluster
+Fifth distribution's point (index : 351) is not in original cluster.(Instead in 5 cluster)
+
+
+First distribution's point (index : 352) is in original cluster
+Second distribution's point (index : 352) is in original cluster
+Third distribution's point (index : 352) is in original cluster
+Forth distribution's point (index : 352) is in original cluster
+Fifth distribution's point (index : 352) is in original cluster
+
+
+First distribution's point (index : 353) is in original cluster
+Second distribution's point (index : 353) is in original cluster
+Third distribution's point (index : 353) is in original cluster
+Forth distribution's point (index : 353) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 353) is in original cluster
+
+
+First distribution's point (index : 354) is in original cluster
+Second distribution's point (index : 354) is in original cluster
+Third distribution's point (index : 354) is in original cluster
+Forth distribution's point (index : 354) is in original cluster
+Fifth distribution's point (index : 354) is in original cluster
+
+
+First distribution's point (index : 355) is in original cluster
+Second distribution's point (index : 355) is in original cluster
+Third distribution's point (index : 355) is in original cluster
+Forth distribution's point (index : 355) is in original cluster
+Fifth distribution's point (index : 355) is in original cluster
+
+
+First distribution's point (index : 356) is in original cluster
+Second distribution's point (index : 356) is in original cluster
+Third distribution's point (index : 356) is in original cluster
+Forth distribution's point (index : 356) is in original cluster
+Fifth distribution's point (index : 356) is in original cluster
+
+
+First distribution's point (index : 357) is in original cluster
+Second distribution's point (index : 357) is in original cluster
+Third distribution's point (index : 357) is in original cluster
+Forth distribution's point (index : 357) is in original cluster
+Fifth distribution's point (index : 357) is in original cluster
+
+
+First distribution's point (index : 358) is in original cluster
+Second distribution's point (index : 358) is in original cluster
+Third distribution's point (index : 358) is in original cluster
+Forth distribution's point (index : 358) is in original cluster
+Fifth distribution's point (index : 358) is in original cluster
+
+
+First distribution's point (index : 359) is in original cluster
+Second distribution's point (index : 359) is in original cluster
+Third distribution's point (index : 359) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 359) is in original cluster
+Fifth distribution's point (index : 359) is in original cluster
+
+
+First distribution's point (index : 360) is in original cluster
+Second distribution's point (index : 360) is in original cluster
+Third distribution's point (index : 360) is in original cluster
+Forth distribution's point (index : 360) is in original cluster
+Fifth distribution's point (index : 360) is in original cluster
+
+
+First distribution's point (index : 361) is in original cluster
+Second distribution's point (index : 361) is in original cluster
+Third distribution's point (index : 361) is in original cluster
+Forth distribution's point (index : 361) is in original cluster
+Fifth distribution's point (index : 361) is in original cluster
+
+
+First distribution's point (index : 362) is in original cluster
+Second distribution's point (index : 362) is not in any cluster
+Third distribution's point (index : 362) is in original cluster
+Forth distribution's point (index : 362) is in original cluster
+Fifth distribution's point (index : 362) is in original cluster
+
+
+First distribution's point (index : 363) is in original cluster
+Second distribution's point (index : 363) is in original cluster
+Third distribution's point (index : 363) is in original cluster
+Forth distribution's point (index : 363) is in original cluster
+Fifth distribution's point (index : 363) is not in original cluster.(Instead in 5 cluster)
+
+
+First distribution's point (index : 364) is in original cluster
+Second distribution's point (index : 364) is in original cluster
+Third distribution's point (index : 364) is in original cluster
+Forth distribution's point (index : 364) is in original cluster
+Fifth distribution's point (index : 364) is not in original cluster.(Instead in 5 cluster)
+
+
+First distribution's point (index : 365) is in original cluster
+Second distribution's point (index : 365) is in original cluster
+Third distribution's point (index : 365) is in original cluster
+Forth distribution's point (index : 365) is in original cluster
+Fifth distribution's point (index : 365) is in original cluster
+
+
+First distribution's point (index : 366) is in original cluster
+Second distribution's point (index : 366) is in original cluster
+Third distribution's point (index : 366) is in original cluster
+Forth distribution's point (index : 366) is in original cluster
+Fifth distribution's point (index : 366) is in original cluster
+
+
+First distribution's point (index : 367) is in original cluster
+Second distribution's point (index : 367) is in original cluster
+Third distribution's point (index : 367) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 367) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 367) is in original cluster
+
+
+First distribution's point (index : 368) is in original cluster
+Second distribution's point (index : 368) is in original cluster
+Third distribution's point (index : 368) is in original cluster
+Forth distribution's point (index : 368) is in original cluster
+Fifth distribution's point (index : 368) is in original cluster
+
+
+First distribution's point (index : 369) is in original cluster
+Second distribution's point (index : 369) is in original cluster
+Third distribution's point (index : 369) is in original cluster
+Forth distribution's point (index : 369) is in original cluster
+Fifth distribution's point (index : 369) is in original cluster
+
+
+First distribution's point (index : 370) is in original cluster
+Second distribution's point (index : 370) is in original cluster
+Third distribution's point (index : 370) is in original cluster
+Forth distribution's point (index : 370) is in original cluster
+Fifth distribution's point (index : 370) is not in original cluster.(Instead in 5 cluster)
+
+
+First distribution's point (index : 371) is in original cluster
+Second distribution's point (index : 371) is in original cluster
+Third distribution's point (index : 371) is in original cluster
+Forth distribution's point (index : 371) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 371) is in original cluster
+
+
+First distribution's point (index : 372) is in original cluster
+Second distribution's point (index : 372) is in original cluster
+Third distribution's point (index : 372) is in original cluster
+Forth distribution's point (index : 372) is in original cluster
+Fifth distribution's point (index : 372) is in original cluster
+
+
+First distribution's point (index : 373) is in original cluster
+Second distribution's point (index : 373) is in original cluster
+Third distribution's point (index : 373) is in original cluster
+Forth distribution's point (index : 373) is in original cluster
+Fifth distribution's point (index : 373) is in original cluster
+
+
+First distribution's point (index : 374) is in original cluster
+Second distribution's point (index : 374) is in original cluster
+Third distribution's point (index : 374) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 374) is in original cluster
+Fifth distribution's point (index : 374) is in original cluster
+
+
+First distribution's point (index : 375) is in original cluster
+Second distribution's point (index : 375) is in original cluster
+Third distribution's point (index : 375) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 375) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 375) is in original cluster
+
+
+First distribution's point (index : 376) is in original cluster
+Second distribution's point (index : 376) is in original cluster
+Third distribution's point (index : 376) is in original cluster
+Forth distribution's point (index : 376) is in original cluster
+Fifth distribution's point (index : 376) is in original cluster
+
+
+First distribution's point (index : 377) is in original cluster
+Second distribution's point (index : 377) is in original cluster
+Third distribution's point (index : 377) is in original cluster
+Forth distribution's point (index : 377) is in original cluster
+Fifth distribution's point (index : 377) is in original cluster
+
+
+First distribution's point (index : 378) is in original cluster
+Second distribution's point (index : 378) is in original cluster
+Third distribution's point (index : 378) is in original cluster
+Forth distribution's point (index : 378) is in original cluster
+Fifth distribution's point (index : 378) is in original cluster
+
+
+First distribution's point (index : 379) is in original cluster
+Second distribution's point (index : 379) is in original cluster
+Third distribution's point (index : 379) is in original cluster
+Forth distribution's point (index : 379) is in original cluster
+Fifth distribution's point (index : 379) is in original cluster
+
+
+First distribution's point (index : 380) is in original cluster
+Second distribution's point (index : 380) is in original cluster
+Third distribution's point (index : 380) is in original cluster
+Forth distribution's point (index : 380) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 380) is in original cluster
+
+
+First distribution's point (index : 381) is in original cluster
+Second distribution's point (index : 381) is in original cluster
+Third distribution's point (index : 381) is in original cluster
+Forth distribution's point (index : 381) is not in original cluster.(Instead in 2 cluster)
+Fifth distribution's point (index : 381) is in original cluster
+
+
+First distribution's point (index : 382) is in original cluster
+Second distribution's point (index : 382) is in original cluster
+Third distribution's point (index : 382) is in original cluster
+Forth distribution's point (index : 382) is in original cluster
+Fifth distribution's point (index : 382) is in original cluster
+
+
+First distribution's point (index : 383) is in original cluster
+Second distribution's point (index : 383) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 383) is in original cluster
+Forth distribution's point (index : 383) is in original cluster
+Fifth distribution's point (index : 383) is in original cluster
+
+
+First distribution's point (index : 384) is in original cluster
+Second distribution's point (index : 384) is not in original cluster.(Instead in 5 cluster)
+Third distribution's point (index : 384) is in original cluster
+Forth distribution's point (index : 384) is in original cluster
+Fifth distribution's point (index : 384) is in original cluster
+
+
+First distribution's point (index : 385) is in original cluster
+Second distribution's point (index : 385) is in original cluster
+Third distribution's point (index : 385) is in original cluster
+Forth distribution's point (index : 385) is in original cluster
+Fifth distribution's point (index : 385) is in original cluster
+
+
+First distribution's point (index : 386) is in original cluster
+Second distribution's point (index : 386) is in original cluster
+Third distribution's point (index : 386) is in original cluster
+Forth distribution's point (index : 386) is in original cluster
+Fifth distribution's point (index : 386) is in original cluster
+
+
+First distribution's point (index : 387) is in original cluster
+Second distribution's point (index : 387) is in original cluster
+Third distribution's point (index : 387) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 387) is in original cluster
+Fifth distribution's point (index : 387) is in original cluster
+
+
+First distribution's point (index : 388) is in original cluster
+Second distribution's point (index : 388) is in original cluster
+Third distribution's point (index : 388) is in original cluster
+Forth distribution's point (index : 388) is in original cluster
+Fifth distribution's point (index : 388) is in original cluster
+
+
+First distribution's point (index : 389) is in original cluster
+Second distribution's point (index : 389) is in original cluster
+Third distribution's point (index : 389) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 389) is in original cluster
+Fifth distribution's point (index : 389) is in original cluster
+
+
+First distribution's point (index : 390) is in original cluster
+Second distribution's point (index : 390) is in original cluster
+Third distribution's point (index : 390) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 390) is in original cluster
+Fifth distribution's point (index : 390) is in original cluster
+
+
+First distribution's point (index : 391) is in original cluster
+Second distribution's point (index : 391) is in original cluster
+Third distribution's point (index : 391) is not in original cluster.(Instead in 3 cluster)
+Forth distribution's point (index : 391) is in original cluster
+Fifth distribution's point (index : 391) is in original cluster
+
+
+First distribution's point (index : 392) is in original cluster
+Second distribution's point (index : 392) is in original cluster
+Third distribution's point (index : 392) is in original cluster
+Forth distribution's point (index : 392) is in original cluster
+Fifth distribution's point (index : 392) is in original cluster
+
+
+First distribution's point (index : 393) is in original cluster
+Second distribution's point (index : 393) is in original cluster
+Third distribution's point (index : 393) is in original cluster
+Forth distribution's point (index : 393) is in original cluster
+Fifth distribution's point (index : 393) is not in original cluster.(Instead in 4 cluster)
+
+
+First distribution's point (index : 394) is in original cluster
+Second distribution's point (index : 394) is in original cluster
+Third distribution's point (index : 394) is in original cluster
+Forth distribution's point (index : 394) is in original cluster
+Fifth distribution's point (index : 394) is in original cluster
+
+
+First distribution's point (index : 395) is in original cluster
+Second distribution's point (index : 395) is in original cluster
+Third distribution's point (index : 395) is in original cluster
+Forth distribution's point (index : 395) is in original cluster
+Fifth distribution's point (index : 395) is in original cluster
+
+
+First distribution's point (index : 396) is in original cluster
+Second distribution's point (index : 396) is in original cluster
+Third distribution's point (index : 396) is not in original cluster.(Instead in 5 cluster)
+Forth distribution's point (index : 396) is in original cluster
+Fifth distribution's point (index : 396) is in original cluster
+
+
+First distribution's point (index : 397) is in original cluster
+Second distribution's point (index : 397) is in original cluster
+Third distribution's point (index : 397) is in original cluster
+Forth distribution's point (index : 397) is in original cluster
+Fifth distribution's point (index : 397) is in original cluster
+
+
+First distribution's point (index : 398) is in original cluster
+Second distribution's point (index : 398) is in original cluster
+Third distribution's point (index : 398) is in original cluster
+Forth distribution's point (index : 398) is in original cluster
+Fifth distribution's point (index : 398) is in original cluster
+
+
+First distribution's point (index : 399) is in original cluster
+Second distribution's point (index : 399) is in original cluster
+Third distribution's point (index : 399) is in original cluster
+Forth distribution's point (index : 399) is in original cluster
+Fifth distribution's point (index : 399) is in original cluster
+
+
+Sixth distribution's point (index : 0) is in 1 cluster
+Sixth distribution's point (index : 1) is in 4 cluster
+Sixth distribution's point (index : 2) is in 1 cluster
+Sixth distribution's point (index : 3) is in 3 cluster
+Sixth distribution's point (index : 4) is in 1 cluster
+Sixth distribution's point (index : 5) is in 2 cluster
+Sixth distribution's point (index : 6) is in 1 cluster
+Sixth distribution's point (index : 7) is in 1 cluster
+Sixth distribution's point (index : 8) is in 1 cluster
+Sixth distribution's point (index : 9) is in 5 cluster
+Sixth distribution's point (index : 10) is in 1 cluster
+Sixth distribution's point (index : 11) is in 1 cluster
+Sixth distribution's point (index : 12) is not in any cluster
+Sixth distribution's point (index : 13) is in 1 cluster
+Sixth distribution's point (index : 14) is in 4 cluster
+Sixth distribution's point (index : 15) is in 5 cluster
+Sixth distribution's point (index : 16) is in 1 cluster
+Sixth distribution's point (index : 17) is in 4 cluster
+Sixth distribution's point (index : 18) is in 1 cluster
+Sixth distribution's point (index : 19) is in 1 cluster
+Sixth distribution's point (index : 20) is not in any cluster
+Sixth distribution's point (index : 21) is in 1 cluster
+Sixth distribution's point (index : 22) is in 1 cluster
+Sixth distribution's point (index : 23) is in 1 cluster
+Sixth distribution's point (index : 24) is in 1 cluster
+Sixth distribution's point (index : 25) is in 1 cluster
+Sixth distribution's point (index : 26) is in 1 cluster
+Sixth distribution's point (index : 27) is in 2 cluster
+Sixth distribution's point (index : 28) is not in any cluster
+Sixth distribution's point (index : 29) is in 1 cluster
+Sixth distribution's point (index : 30) is in 5 cluster
+Sixth distribution's point (index : 31) is in 1 cluster
+Sixth distribution's point (index : 32) is in 1 cluster
+Sixth distribution's point (index : 33) is in 1 cluster
+Sixth distribution's point (index : 34) is in 1 cluster
+Sixth distribution's point (index : 35) is in 1 cluster
+Sixth distribution's point (index : 36) is in 1 cluster
+Sixth distribution's point (index : 37) is in 4 cluster
+Sixth distribution's point (index : 38) is in 1 cluster
+Sixth distribution's point (index : 39) is in 4 cluster
+Sixth distribution's point (index : 40) is in 2 cluster
+Sixth distribution's point (index : 41) is not in any cluster
+Sixth distribution's point (index : 42) is in 1 cluster
+Sixth distribution's point (index : 43) is in 2 cluster
+Sixth distribution's point (index : 44) is in 4 cluster
+Sixth distribution's point (index : 45) is in 1 cluster
+Sixth distribution's point (index : 46) is in 2 cluster
+Sixth distribution's point (index : 47) is in 1 cluster
+Sixth distribution's point (index : 48) is in 1 cluster
+Sixth distribution's point (index : 49) is in 1 cluster
+Sixth distribution's point (index : 50) is in 5 cluster
+Sixth distribution's point (index : 51) is in 1 cluster
+Sixth distribution's point (index : 52) is in 5 cluster
+Sixth distribution's point (index : 53) is in 4 cluster
+Sixth distribution's point (index : 54) is in 1 cluster
+Sixth distribution's point (index : 55) is in 1 cluster
+Sixth distribution's point (index : 56) is in 1 cluster
+Sixth distribution's point (index : 57) is in 1 cluster
+Sixth distribution's point (index : 58) is in 1 cluster
+Sixth distribution's point (index : 59) is in 1 cluster
+Sixth distribution's point (index : 60) is in 5 cluster
+Sixth distribution's point (index : 61) is in 4 cluster
+Sixth distribution's point (index : 62) is in 1 cluster
+Sixth distribution's point (index : 63) is in 1 cluster
+Sixth distribution's point (index : 64) is in 4 cluster
+Sixth distribution's point (index : 65) is in 1 cluster
+Sixth distribution's point (index : 66) is in 5 cluster
+Sixth distribution's point (index : 67) is in 1 cluster
+Sixth distribution's point (index : 68) is in 5 cluster
+Sixth distribution's point (index : 69) is in 2 cluster
+Sixth distribution's point (index : 70) is in 1 cluster
+Sixth distribution's point (index : 71) is in 2 cluster
+Sixth distribution's point (index : 72) is in 2 cluster
+Sixth distribution's point (index : 73) is in 5 cluster
+Sixth distribution's point (index : 74) is in 1 cluster
+Sixth distribution's point (index : 75) is in 1 cluster
+Sixth distribution's point (index : 76) is in 4 cluster
+Sixth distribution's point (index : 77) is in 1 cluster
+Sixth distribution's point (index : 78) is in 1 cluster
+Sixth distribution's point (index : 79) is in 1 cluster
+Sixth distribution's point (index : 80) is in 1 cluster
+Sixth distribution's point (index : 81) is in 5 cluster
+Sixth distribution's point (index : 82) is in 5 cluster
+Sixth distribution's point (index : 83) is not in any cluster
+Sixth distribution's point (index : 84) is in 4 cluster
+Sixth distribution's point (index : 85) is in 4 cluster
+Sixth distribution's point (index : 86) is in 1 cluster
+Sixth distribution's point (index : 87) is in 1 cluster
+Sixth distribution's point (index : 88) is in 1 cluster
+Sixth distribution's point (index : 89) is in 1 cluster
+Sixth distribution's point (index : 90) is in 4 cluster
+Sixth distribution's point (index : 91) is in 4 cluster
+Sixth distribution's point (index : 92) is in 1 cluster
+Sixth distribution's point (index : 93) is in 1 cluster
+Sixth distribution's point (index : 94) is in 5 cluster
+Sixth distribution's point (index : 95) is in 1 cluster
+Sixth distribution's point (index : 96) is in 1 cluster
+Sixth distribution's point (index : 97) is in 1 cluster
+Sixth distribution's point (index : 98) is in 1 cluster
+Sixth distribution's point (index : 99) is in 2 cluster
